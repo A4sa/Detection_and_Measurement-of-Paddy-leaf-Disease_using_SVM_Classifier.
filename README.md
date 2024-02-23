@@ -1,0 +1,1 @@
+# Detection-Measurement_of_Paddy_leaf_Disease_using_SVM_Classifier.
